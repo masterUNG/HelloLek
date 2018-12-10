@@ -1,0 +1,25 @@
+<h2>User Work ==> String Normal</h2>
+<ul>
+  <li><b>displayName ==> </b>{{displayNameString}}</li>
+  <li><b>age</b> ==> {{ageInt}}</li>
+  <li><b>email</b> ==> {{emailString}}</li>
+</ul>
+<!-- Show Dictionary -->
+<h3>Office ==> Dictionary</h3>
+<ul>
+  <li><b>Address:</b>{{address.street}}, {{address.city}}, {{address.province}}, {{address.postcode}}</li>
+</ul>
+
+<!-- Form Add Skill -->
+<form (submit)="addSkill(skill.value)">
+  <label for="skill"><b>Add Skill:</b></label>
+  <input type="text" #skill placeholder="New Skill">
+</form>
+
+
+<!-- Show Array -->
+<h3>Skill ==> Array</h3>
+<ul>
+  <li  style="list-style-type: none;" *ngFor="let skillString of skills; let i=index;">{{i+1}}. {{skillString}} <button (click)="removeSkill(skillString)">
+      X </button></li>
+</ul>
