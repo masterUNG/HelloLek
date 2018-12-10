@@ -44,6 +44,7 @@ export class UserComponent implements OnInit {
   } // ngOnInit
 
   addSkill(skill: string){
+    console.log('You Add skill ==> ' + skill);
     this.skills.unshift(skill);
     return false;
   }
