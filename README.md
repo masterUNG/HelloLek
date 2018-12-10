@@ -1,27 +1,26 @@
-# HelloLek
+## Demo Learnning Angular From Pee Lek
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+[![Screen-Shot-2561-12-10-at-09-02-02.png](https://i.postimg.cc/6pxT5xpT/Screen-Shot-2561-12-10-at-09-02-02.png)](https://postimg.cc/kBw7fZ8d)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## สอนโปรเจ็คตัวต่อตัว
+### Workshop With มาสเตอร์ อึ่ง
 
-## Code scaffolding
+## ต้องการรายละเอียดเพิ่ม หรือ ต้องการ ปรึกษาการทำ โปรเจคแอนดรอยด์
+### ติดต่อมาสเตอร์ อึ่ง เลย ที่
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[![IMG_6065.jpg](https://s26.postimg.cc/kajrs6fbt/IMG_6065.jpg)](https://postimg.cc/image/7j5llo5jp/)
 
-## Build
+https://www.facebook.com/android.Training.by.EWTC
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+http://line.me/ti/p/XI-Ksj7Jzq
 
-## Running unit tests
+[![Line-_QR.jpg](https://s26.postimg.cc/dwuoozv15/Line-_QR.jpg)](https://postimg.cc/image/mrvizijth/)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+http://androidthai.in.th
 
-## Running end-to-end tests
+http://swiftcodingthai.com    
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+phrombutr@gmail.com
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Mobile 0818595309
